@@ -15,3 +15,11 @@ int、float、str、bool、bytes
 ```python
 使用 input 关键字
 ```
+
+## *004.格式化输出* 
+```python
+a="今天的天气是"
+b=23
+c="摄氏度"
+print("%s:%d%s"%(a,b,c))
+```
